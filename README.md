@@ -6,7 +6,7 @@
 <tr>
 <td width="50%">
 
-<img src="tetris.png" alt="Tetris for Terminal" />
+<img src="tetris_886x498.png" alt="Tetris for Terminal" />
 
 ### [Tetris for Terminal](https://github.com/jaikarans/tetris-for-terminal)
 A classic Tetris game playable entirely in the terminal, written in Java 17.
@@ -14,7 +14,7 @@ A classic Tetris game playable entirely in the terminal, written in Java 17.
 </td>
 <td width="50%">
 
-<img src="maze.png" alt="Another Project" />
+<img src="maze_886x498.png" alt="Another Project" />
 
 ### [Maze Game](https://github.com/jaikarans/maze-game)
 A responsive maze game that adapts seamlessly to different screen sizes
