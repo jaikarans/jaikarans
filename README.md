@@ -1,27 +1,43 @@
-# Hi, I'm Jaikarans 👋
+# Hi, I'm Jaikaran 👋
 
-## 🚀 Projects
+## 🚀 projects
 
 <table>
 <tr>
 <td width="50%">
 
-<img src="tetris_886x498.png" alt="Tetris for Terminal" />
+<img src="tetris_886x499.png" alt="Tetris for Terminal" />
 
 ### [Tetris for Terminal](https://github.com/jaikarans/tetris-for-terminal)
-A classic Tetris game playable entirely in the terminal, written in Java 17.
+A classic Tetris game playable entirely in the terminal, written in Java
 
 </td>
 <td width="50%">
 
-<img src="maze_886x498.png" alt="Another Project" />
+<img src="maze_886x499.png" alt="maze game" />
 
 ### [Maze Game](https://github.com/jaikarans/maze-game)
 A responsive maze game that adapts seamlessly to different screen sizes
 
 </td>
 </tr>
+
+<tr>
+<td width="50%">
+
+<img src="snake_886x499.png" alt="Snake Game" />
+
+### [Snake Xenzia](https://github.com/jaikarans/snake-xenzia)
+A classic Snake game designed for PC and laptop
+
+</td>
+<td width="50%">
+
+<img src="game_886x499.png" alt="Game of Life" />
+
+### [Game Of Life](https://github.com/jaikarans/game-of-life)
+An implementation of Conway’s Game of Life, a cellular automaton where simple rules give rise to complex, emergent behavior.
+
+</td>
+</tr>
 </table>
-
-
-
