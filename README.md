@@ -28,7 +28,7 @@ A responsive maze game that adapts seamlessly to different screen sizes
 <img src="snake_886x499.png" alt="Snake Game" />
 
 ### [Snake Xenzia](https://github.com/jaikarans/snake-xenzia)
-A classic Snake game designed for PC and laptop
+An implementation of the classic Snake game designed for Pc and Laptop
 
 </td>
 <td width="50%">
@@ -36,7 +36,7 @@ A classic Snake game designed for PC and laptop
 <img src="game_886x499.png" alt="Game of Life" />
 
 ### [Game Of Life](https://github.com/jaikarans/game-of-life)
-An implementation of Conway’s Game of Life, a cellular automaton.
+An implementation of Conway’s Game of Life, a cellular automaton
 
 </td>
 </tr>
