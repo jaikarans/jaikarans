@@ -36,7 +36,7 @@ A classic Snake game designed for PC and laptop
 <img src="game_886x499.png" alt="Game of Life" />
 
 ### [Game Of Life](https://github.com/jaikarans/game-of-life)
-An implementation of Conway’s Game of Life, a cellular automaton where simple rules give rise to complex, emergent behavior.
+An implementation of Conway’s Game of Life, a cellular automaton.
 
 </td>
 </tr>
